@@ -1,0 +1,6 @@
+C:\Users\ACER\source\repos\C Sharp Console Dersler Projesi\C Sharp Console Strings\bin\Debug\C Sharp Console Strings.exe.config
+C:\Users\ACER\source\repos\C Sharp Console Dersler Projesi\C Sharp Console Strings\bin\Debug\C Sharp Console Strings.exe
+C:\Users\ACER\source\repos\C Sharp Console Dersler Projesi\C Sharp Console Strings\bin\Debug\C Sharp Console Strings.pdb
+C:\Users\ACER\source\repos\C Sharp Console Dersler Projesi\C Sharp Console Strings\obj\Debug\C Sharp Console Strings.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\C Sharp Console Dersler Projesi\C Sharp Console Strings\obj\Debug\C Sharp Console Strings.exe
+C:\Users\ACER\source\repos\C Sharp Console Dersler Projesi\C Sharp Console Strings\obj\Debug\C Sharp Console Strings.pdb

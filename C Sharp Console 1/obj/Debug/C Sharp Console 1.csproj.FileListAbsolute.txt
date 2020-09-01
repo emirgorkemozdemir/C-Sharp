@@ -1,0 +1,6 @@
+C:\Users\ACER\source\repos\C Sharp Console Dersler Projesi\C Sharp Console 1\bin\Debug\C Sharp Console 1.exe.config
+C:\Users\ACER\source\repos\C Sharp Console Dersler Projesi\C Sharp Console 1\bin\Debug\C Sharp Console 1.exe
+C:\Users\ACER\source\repos\C Sharp Console Dersler Projesi\C Sharp Console 1\bin\Debug\C Sharp Console 1.pdb
+C:\Users\ACER\source\repos\C Sharp Console Dersler Projesi\C Sharp Console 1\obj\Debug\C Sharp Console 1.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\C Sharp Console Dersler Projesi\C Sharp Console 1\obj\Debug\C Sharp Console 1.exe
+C:\Users\ACER\source\repos\C Sharp Console Dersler Projesi\C Sharp Console 1\obj\Debug\C Sharp Console 1.pdb

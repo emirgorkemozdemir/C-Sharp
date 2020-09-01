@@ -1,0 +1,24 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace C_Sharp_Console_Strings
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string isim;
+
+            Console.Write("İsminizi giriniz :");
+
+            isim = Console.ReadLine();
+
+            Console.Write("Merhaba" + isim);
+
+            Console.Read();
+        }
+    }
+}
