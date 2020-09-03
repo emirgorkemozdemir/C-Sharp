@@ -1,0 +1,7 @@
+C:\Users\ACER\source\repos\C Sharp Console Dersler Projesi\C Sharp Console Integers\bin\Debug\C Sharp Console Integers.exe.config
+C:\Users\ACER\source\repos\C Sharp Console Dersler Projesi\C Sharp Console Integers\bin\Debug\C Sharp Console Integers.exe
+C:\Users\ACER\source\repos\C Sharp Console Dersler Projesi\C Sharp Console Integers\bin\Debug\C Sharp Console Integers.pdb
+C:\Users\ACER\source\repos\C Sharp Console Dersler Projesi\C Sharp Console Integers\obj\Debug\C Sharp Console Integers.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\C Sharp Console Dersler Projesi\C Sharp Console Integers\obj\Debug\C Sharp Console Integers.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\C Sharp Console Dersler Projesi\C Sharp Console Integers\obj\Debug\C Sharp Console Integers.exe
+C:\Users\ACER\source\repos\C Sharp Console Dersler Projesi\C Sharp Console Integers\obj\Debug\C Sharp Console Integers.pdb
