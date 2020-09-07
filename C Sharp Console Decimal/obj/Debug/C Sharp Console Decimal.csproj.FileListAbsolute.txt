@@ -1,0 +1,6 @@
+C:\Users\ACER\source\repos\C Sharp Console Dersler Projesi\C Sharp Console Decimal\bin\Debug\C Sharp Console Decimal.exe.config
+C:\Users\ACER\source\repos\C Sharp Console Dersler Projesi\C Sharp Console Decimal\bin\Debug\C Sharp Console Decimal.exe
+C:\Users\ACER\source\repos\C Sharp Console Dersler Projesi\C Sharp Console Decimal\bin\Debug\C Sharp Console Decimal.pdb
+C:\Users\ACER\source\repos\C Sharp Console Dersler Projesi\C Sharp Console Decimal\obj\Debug\C Sharp Console Decimal.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\C Sharp Console Dersler Projesi\C Sharp Console Decimal\obj\Debug\C Sharp Console Decimal.exe
+C:\Users\ACER\source\repos\C Sharp Console Dersler Projesi\C Sharp Console Decimal\obj\Debug\C Sharp Console Decimal.pdb

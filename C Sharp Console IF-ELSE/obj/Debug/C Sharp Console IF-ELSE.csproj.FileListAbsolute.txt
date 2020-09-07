@@ -1,0 +1,7 @@
+C:\Users\ACER\source\repos\C Sharp Console Dersler Projesi\C Sharp Console IF-ELSE\bin\Debug\C Sharp Console IF-ELSE.exe.config
+C:\Users\ACER\source\repos\C Sharp Console Dersler Projesi\C Sharp Console IF-ELSE\bin\Debug\C Sharp Console IF-ELSE.exe
+C:\Users\ACER\source\repos\C Sharp Console Dersler Projesi\C Sharp Console IF-ELSE\bin\Debug\C Sharp Console IF-ELSE.pdb
+C:\Users\ACER\source\repos\C Sharp Console Dersler Projesi\C Sharp Console IF-ELSE\obj\Debug\C Sharp Console IF-ELSE.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\C Sharp Console Dersler Projesi\C Sharp Console IF-ELSE\obj\Debug\C Sharp Console IF-ELSE.exe
+C:\Users\ACER\source\repos\C Sharp Console Dersler Projesi\C Sharp Console IF-ELSE\obj\Debug\C Sharp Console IF-ELSE.pdb
+C:\Users\ACER\source\repos\C Sharp Console Dersler Projesi\C Sharp Console IF-ELSE\obj\Debug\C Sharp Console IF-ELSE.csprojAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\ACER\source\repos\C Sharp Console Dersler Projesi\C Sharp Console ELSEIF\bin\Debug\C Sharp Console ELSEIF.exe.config
+C:\Users\ACER\source\repos\C Sharp Console Dersler Projesi\C Sharp Console ELSEIF\bin\Debug\C Sharp Console ELSEIF.exe
+C:\Users\ACER\source\repos\C Sharp Console Dersler Projesi\C Sharp Console ELSEIF\bin\Debug\C Sharp Console ELSEIF.pdb
+C:\Users\ACER\source\repos\C Sharp Console Dersler Projesi\C Sharp Console ELSEIF\obj\Debug\C Sharp Console ELSEIF.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\C Sharp Console Dersler Projesi\C Sharp Console ELSEIF\obj\Debug\C Sharp Console ELSEIF.exe
+C:\Users\ACER\source\repos\C Sharp Console Dersler Projesi\C Sharp Console ELSEIF\obj\Debug\C Sharp Console ELSEIF.pdb
