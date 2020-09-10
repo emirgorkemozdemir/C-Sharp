@@ -1,0 +1,7 @@
+C:\Users\ACER\source\repos\C Sharp Console Dersler Projesi\C Sharp Console Switch Case\bin\Debug\C Sharp Console Switch Case.exe.config
+C:\Users\ACER\source\repos\C Sharp Console Dersler Projesi\C Sharp Console Switch Case\bin\Debug\C Sharp Console Switch Case.exe
+C:\Users\ACER\source\repos\C Sharp Console Dersler Projesi\C Sharp Console Switch Case\bin\Debug\C Sharp Console Switch Case.pdb
+C:\Users\ACER\source\repos\C Sharp Console Dersler Projesi\C Sharp Console Switch Case\obj\Debug\C Sharp Console Switch Case.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\C Sharp Console Dersler Projesi\C Sharp Console Switch Case\obj\Debug\C Sharp Console Switch Case.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\C Sharp Console Dersler Projesi\C Sharp Console Switch Case\obj\Debug\C Sharp Console Switch Case.exe
+C:\Users\ACER\source\repos\C Sharp Console Dersler Projesi\C Sharp Console Switch Case\obj\Debug\C Sharp Console Switch Case.pdb

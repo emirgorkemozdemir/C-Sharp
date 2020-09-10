@@ -1,0 +1,6 @@
+C:\Users\ACER\source\repos\C Sharp Console Dersler Projesi\C Sharp Console For Loop\bin\Debug\C Sharp Console For Loop.exe.config
+C:\Users\ACER\source\repos\C Sharp Console Dersler Projesi\C Sharp Console For Loop\bin\Debug\C Sharp Console For Loop.exe
+C:\Users\ACER\source\repos\C Sharp Console Dersler Projesi\C Sharp Console For Loop\bin\Debug\C Sharp Console For Loop.pdb
+C:\Users\ACER\source\repos\C Sharp Console Dersler Projesi\C Sharp Console For Loop\obj\Debug\C Sharp Console For Loop.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\C Sharp Console Dersler Projesi\C Sharp Console For Loop\obj\Debug\C Sharp Console For Loop.exe
+C:\Users\ACER\source\repos\C Sharp Console Dersler Projesi\C Sharp Console For Loop\obj\Debug\C Sharp Console For Loop.pdb
