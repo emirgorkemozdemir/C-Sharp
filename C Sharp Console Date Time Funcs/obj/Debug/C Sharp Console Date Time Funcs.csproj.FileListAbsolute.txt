@@ -1,0 +1,7 @@
+C:\Users\ACER\source\repos\C Sharp Console Dersler Projesi\C Sharp Console Date Time Funcs\bin\Debug\C Sharp Console Date Time Funcs.exe.config
+C:\Users\ACER\source\repos\C Sharp Console Dersler Projesi\C Sharp Console Date Time Funcs\bin\Debug\C Sharp Console Date Time Funcs.exe
+C:\Users\ACER\source\repos\C Sharp Console Dersler Projesi\C Sharp Console Date Time Funcs\bin\Debug\C Sharp Console Date Time Funcs.pdb
+C:\Users\ACER\source\repos\C Sharp Console Dersler Projesi\C Sharp Console Date Time Funcs\obj\Debug\C Sharp Console Date Time Funcs.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\C Sharp Console Dersler Projesi\C Sharp Console Date Time Funcs\obj\Debug\C Sharp Console Date Time Funcs.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\C Sharp Console Dersler Projesi\C Sharp Console Date Time Funcs\obj\Debug\C Sharp Console Date Time Funcs.exe
+C:\Users\ACER\source\repos\C Sharp Console Dersler Projesi\C Sharp Console Date Time Funcs\obj\Debug\C Sharp Console Date Time Funcs.pdb
